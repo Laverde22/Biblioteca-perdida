@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff;
+    font-weight:700px;
+}
+body{
+    background-image: url(/img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.title{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+}
+.caja1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+    gap: 50px;
+    margin-top: 300px;
+}
+.subcajas1{
+    background-color:#2471A3 ;
+    border-radius: 10px;   
+    padding: 10px;
+    border: 1px solid #fff;
+    
+}
+.subcajas1 :hover{
+color:black;
+}

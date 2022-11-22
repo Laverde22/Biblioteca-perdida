@@ -1,0 +1,46 @@
+header{
+    padding: 15px;
+    text-align: center;
+    background-color:#1C2833;
+}
+h1{
+    color:#fff;
+}
+h5{
+color: #fff;
+}
+.header1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.botonsalir{
+    background-color: #2471A3;
+    margin: 5px;
+    width: 60px;
+    border: 1px solid #fff;
+}
+.nombre{
+    width: 900px;
+    margin: auto    ;
+}
+.usuario{
+    display: grid;
+    grid-template-columns: 100px;
+    text-align: center;
+}
+.logo{
+    width: 60px;
+    height: 60px;
+    text-align: center;
+}
+.name{
+    margin-left: -35px;
+}
+.logos{
+    width: 100px;
+    height: 100px;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}

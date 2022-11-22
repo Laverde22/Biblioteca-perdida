@@ -1,0 +1,75 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(/img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.registro{
+    width: 400px;
+    background:dimgray;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    border-radius: 30px 0px 30px 0px;
+    color: white;
+}
+  
+h4 {
+    font-size: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+  
+.items {
+    width: 100%;
+    background: dimgray;
+    padding: 10px;
+    border-radius: 9px;
+    margin-bottom: 16px;
+    border: 1px solid #ffff;
+    font-size:20px;
+    color: white;
+}
+  
+p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+  
+a{
+    color: white;
+    text-decoration: none;
+}
+  
+#botons {
+    width: 40%;
+    background: #2471A3;
+    border: 1px solid #fff;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    padding-left: 133px;
+    padding-right: 133px;
+}
+
+#nombrelog{
+    width: 400px;
+    height: 200px;
+    margin-bottom: -130px;
+    margin-left: 50px;
+} 
+

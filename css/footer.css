@@ -1,0 +1,17 @@
+footer{
+    text-align: center;
+    background-color:#1C2833;
+    margin-top: 70px;
+    padding: 10px;
+}
+.diametro{
+    width: 100px;
+    height: 100px;
+}
+.cfooter{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+h4{
+    color: #fff;
+}

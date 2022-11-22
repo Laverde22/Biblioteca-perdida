@@ -1,0 +1,76 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-image: url(/img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.titulo{
+    padding: 25px;
+    height: auto;
+    width: auto;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto ;
+}
+h2{
+    color: #fff;
+}
+
+
+.formulario{
+    margin-bottom: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.subtitle{
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+}
+
+
+.campos{
+    width: 100%;
+    background-color: #1C2833;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 3px solid #fff;
+    font-size: 18px;
+    color: #fff;
+}
+
+.letra{
+    color: #fff;
+    font-size:30px;
+}
+
+#crear{
+    color: #fff;
+    font-size: 35px;
+}
+
+#guardar{
+    width: 60%;
+    background: #2471A3;
+    border: none;
+    padding: 10px;
+    color: #fff;
+    font-size: 16px;
+}
+placeholder{
+    color:black;
+}
+
+
+
+

@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(/img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.diseno{
+    width: 90%;
+    background: dimgray;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 35px;
+    border: 1px solid #fff;
+    font-size: 15px;
+    color: #fff;
+
+}
+
+.cajaPrincipal{
+    width: 400px;
+    background-color: dimgray;
+    padding: 30px;  
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 9px;
+    color: aliceblue;
+
+}
+h4{
+    font-size: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+p{
+    height: 40px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 40px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+.boton{
+    background-color:#3498DB;
+    width: 100px;
+    border: none;
+    padding: 15px;
+    color:#fff;
+    margin: 16px 0;
+    font-size: 15px;
+    padding-left: 150px ;
+    padding-right: 150px;
+    
+}
